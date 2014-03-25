@@ -1,4 +1,4 @@
 sdl-ios-sampleapp
 =================
 
-A sample iOS app using the SDL SDK
+A Sample App using the SDL iOS SDK
